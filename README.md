@@ -17,10 +17,6 @@
   
 </div>
   
-  ## fdsfdsaf
-  <img src="https://github.com/rondiak-un/rondiak-un/blob/main/funny-anime-gif-14.gif" width="256" />
-  
-  
   ##
  
 <div> 
@@ -32,3 +28,9 @@
   ![](https://komarev.com/ghpvc/?username=rondiak-un)
  
 </div>
+  
+  ### I’m working 
+  <img src="https://github.com/rondiak-un/rondiak-un/blob/main/4a12b8b3f8d1af1e3d06a338d2d5e2fe.gif" width="256" />
+  
+  
+  
