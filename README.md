@@ -3,7 +3,7 @@
 ## Hello there {Anwortech}
 <div align="center">
   <a href="https://github.com/rondiak-un">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rondiak-un&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rondiak-un&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondiak-un&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
   <img align="center" alt="ron-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">      
 </div>
   
-  <p><img align="right" alt="gif" src="https://github.com/rondiak-un/rondiak-un/blob/main/4a12b8b3f8d1af1e3d06a338d2d5e2fe.gif" width="500" height="320" /></p>
+  
   
   ##
  
