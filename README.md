@@ -1,6 +1,6 @@
 
 
-## Hello there 😁 {Anwortech}
+## Hello there, my name is Oleh 😁 {Anwortech}
 <div align="center">
   <a href="https://github.com/rondiak-un">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rondiak-un&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
