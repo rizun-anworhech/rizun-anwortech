@@ -16,7 +16,7 @@
   <img align="center" alt="ron-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">      
 </div>
   
-  <img src="" width="256" />
+  <img src="https://github.com/rondiak-un/rondiak-un/blob/main/4a12b8b3f8d1af1e3d06a338d2d5e2fe.gif" width="256" />
   
   
   ##
