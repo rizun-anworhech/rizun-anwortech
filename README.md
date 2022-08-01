@@ -14,6 +14,7 @@
   <img align="center" alt="ron-JetBrains" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
   <img align="center" alt="ron-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="ron-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">      
+  <img align="right" alt="gif" width="500" height="320" src="https://github.com/rondiak-un/rondiak-un/blob/main/4a12b8b3f8d1af1e3d06a338d2d5e2fe.gif">
 </div>
   
   
