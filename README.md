@@ -24,6 +24,6 @@
   <a href = "mailto:vinyloleg228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/DamonenUn" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  ![](https://komarev.com/ghpvc/?username=rondiak-un)
  
 </div>
