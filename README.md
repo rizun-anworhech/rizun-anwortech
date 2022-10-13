@@ -3,7 +3,7 @@
 ## Hello there, my name is Oleh 😁 {Anwortech}
 <div align="center">
   <a href="https://github.com/rizun-anwortech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rondiak-un&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rizun-anwortech&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizun-anwortech&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
@@ -29,6 +29,6 @@
   <a href = "mailto:vinyloleg228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/DamonenUn" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
-  ![](https://komarev.com/ghpvc/?username=rondiak-un)
+  ![](https://komarev.com/ghpvc/?username=rizun-anwortech)
  
 </div>
