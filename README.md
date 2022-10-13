@@ -2,13 +2,13 @@
 
 ## Hello there, my name is Oleh 😁 {Anwortech}
 <div align="center">
-  <a href="https://github.com/rondiak-un">
+  <a href="https://github.com/rizun-anwortech">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rondiak-un&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondiak-un&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizun-anwortech&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
    ### Language and Technology 💻
-  <img align="right" src="https://github.com/rondiak-un/rondiak-un/blob/main/7CNV.gif" width="256" />
+  <img align="right" src="https://github.com/rizun-anwortech/rizun-anwortech/blob/main/7CNV.gif" width="256" />
   
 <div style="display: inline_block"><br>
   <img align="center" alt="ron-Koltin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
