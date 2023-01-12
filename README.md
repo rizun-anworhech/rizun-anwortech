@@ -3,7 +3,7 @@
 ## Hello there, my name is Oleh 😁 {Anwortech}
 <div align="center">
   <a href="https://github.com/rizun-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=rizun-dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=_crabok&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizun-dev&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
